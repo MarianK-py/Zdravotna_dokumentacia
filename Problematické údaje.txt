@@ -1,0 +1,6 @@
+Hypoxémia - nie je o nej v prepúštavcej správe informácia
+Oxygenoterapia - high-flow, low-flow, UPV nájde, problém s maskou a nosovou kanylou
+Smrť - nie je informácia (v zásade vždy správe konči buď prevezením inde alebo prepusstením)
+Dni - nie je v prepúštavcej správe informácia ako dlho užíval pacient ktoré lieko počas hospitalizácia
+IgG, IgM protilátky - nie vždy dátum testu - problém určiť najstarší (zatiaľ v kóde využívaná úvaha, že negatívny test je vždy starší ako pozitívny)
+  
